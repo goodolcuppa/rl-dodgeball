@@ -1,0 +1,48 @@
+{
+    "Dodgeball": {
+        "checkpoints": [
+            {
+                "steps": 499276,
+                "file_path": "results\\dodgeball_mapoca_2\\Dodgeball\\Dodgeball-499276.onnx",
+                "reward": -0.05275000026449561,
+                "creation_time": 1717604533.094659,
+                "auxillary_file_paths": [
+                    "results\\dodgeball_mapoca_2\\Dodgeball\\Dodgeball-499276.pt"
+                ]
+            },
+            {
+                "steps": 999954,
+                "file_path": "results\\dodgeball_mapoca_2\\Dodgeball\\Dodgeball-999954.onnx",
+                "reward": 0.48524998450884593,
+                "creation_time": 1717605547.8517697,
+                "auxillary_file_paths": [
+                    "results\\dodgeball_mapoca_2\\Dodgeball\\Dodgeball-999954.pt"
+                ]
+            },
+            {
+                "steps": 1232242,
+                "file_path": "results\\dodgeball_mapoca_2\\Dodgeball\\Dodgeball-1232242.onnx",
+                "reward": 1.5161427963258964,
+                "creation_time": 1717606035.777559,
+                "auxillary_file_paths": [
+                    "results\\dodgeball_mapoca_2\\Dodgeball\\Dodgeball-1232242.pt"
+                ]
+            }
+        ],
+        "elo": 1193.50154718977,
+        "final_checkpoint": {
+            "steps": 1232242,
+            "file_path": "results\\dodgeball_mapoca_2\\Dodgeball.onnx",
+            "reward": 1.5161427963258964,
+            "creation_time": 1717606035.777559,
+            "auxillary_file_paths": [
+                "results\\dodgeball_mapoca_2\\Dodgeball\\Dodgeball-1232242.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.0"
+    }
+}
