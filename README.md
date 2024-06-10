@@ -11,8 +11,8 @@ Reinforcement Learning agent trained in Unity using the Unity ML Agents package.
 # Environment
 The arena is set up with 3 balls in the center, an agent on each side, and a barrier dividing it so that only balls can pass through.
 <p align="center">
-  <img src="https://github.com/goodolcuppa/rldodgeball/assets/38227160/7b310d37-749c-4e45-b814-384328f7d8df" height="250">
-  <img src="https://github.com/goodolcuppa/rldodgeball/assets/38227160/121f1df0-dd9e-4ed1-b07b-1a45dcdbb989" height="250">
+  <img src="https://github.com/goodolcuppa/rldodgeball/assets/38227160/7b310d37-749c-4e45-b814-384328f7d8df" height="200">
+  <img src="https://github.com/goodolcuppa/rldodgeball/assets/38227160/121f1df0-dd9e-4ed1-b07b-1a45dcdbb989" height="200">
 </p>
 
 # Actions
